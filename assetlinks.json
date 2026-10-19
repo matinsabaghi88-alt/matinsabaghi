@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.shafai_pouya.twa",
+        "sha256_cert_fingerprints": ["57:EE:5E:96:8D:82:2B:9A:7B:25:69:CC:7E:34:BA:3C:A9:F0:CE:4C:DB:F3:87:1D:FC:81:44:15:39:FB:22:1A"]
+      }
+    }]
